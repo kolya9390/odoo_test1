@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_odoo_test__nikolai_odoo_test__nikolai,odoo_test__nikolai.odoo_test__nikolai,model_odoo_test__nikolai_odoo_test__nikolai,base.group_user,1,1,1,1
